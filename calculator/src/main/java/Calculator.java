@@ -1,6 +1,8 @@
 public class Calculator {
     private int add;
     private int substract;
+    private int multiply;
+    private int divide;
 
 
     public void add(int a, int b) {
